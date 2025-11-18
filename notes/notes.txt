@@ -1,0 +1,24 @@
+Step 1:
+    Build minimum Viable Microwave
+        - No power levels
+        - No presets
+        - No door sensor
+        - No fancy display
+
+Phase 1:
+    You can press:
+        Number buttons (0-9)
+        Start
+        Stop
+        Clear
+
+    Microwave does:
+        Display time as you enter it
+        Start countdown
+        Stop when you hit Stop
+        Reset when you hit Clear
+        Ding when it reaches zero
+
+
+
+
